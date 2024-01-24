@@ -2,5 +2,5 @@
 2) There are 12 git objects 
 3) There are 3 blobs, 4 trees and 5 commits.
 4) It looks like the commit updated the German translation for the git GNU.
-5) b/Documentation/RelNotes/2.31.1.txt
+5) 2.31.1.txt
 6) There are 6 branches
